@@ -100,13 +100,7 @@ section h3 {
   color: #555;
 }
 
-.participants-list li:before {
-  content: "•";
-  position: absolute;
-  left: 0;
-  color: #0066cc;
-  font-weight: bold;
-}
+
 
 .form-group {
   margin-bottom: 15px;
